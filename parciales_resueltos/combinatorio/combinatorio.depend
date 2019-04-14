@@ -1,0 +1,23 @@
+# depslib dependency file v1.0
+1544613653 source:c:\users\astrobertoabbulrodri\desktop\combinatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1544613473 source:c:\users\astrobertoabbulrodri\desktop\combinatorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"funciones.h"
+	"ArrayList.h"
+
+1544609174 c:\users\astrobertoabbulrodri\desktop\combinatorio\funciones.h
+
+1543600244 c:\users\astrobertoabbulrodri\desktop\combinatorio\arraylist.h
+
