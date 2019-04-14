@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1505143575 source:c:\users\alumno\desktop\grafica horizontal\main.c
+	<stdio.h>
+	<stdlib.h>
+

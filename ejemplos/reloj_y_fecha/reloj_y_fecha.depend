@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1512346953 source:c:\users\isa silvana lado\desktop\abbul -c-\reloj_y_fecha\main.c
+	<stdio.h>
+	<stdlib.h>
+	<windows.h>
+	<conio.h>
+	<dos.h>
+

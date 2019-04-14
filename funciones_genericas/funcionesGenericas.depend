@@ -1,0 +1,53 @@
+# depslib dependency file v1.0
+1505904976 source:c:\users\isa silvana lado\desktop\funcionesgenericas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1505903382 c:\users\isa silvana lado\desktop\funcionesgenericas\funciones.h
+
+1505905589 source:c:\users\isa silvana lado\desktop\funcionesgenericas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506334261 source:c:\users\isa silvana lado\desktop\funciones-master\funcionesgenericas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1506507379 c:\users\isa silvana lado\desktop\funciones-master\funcionesgenericas\funciones.h
+
+1506291241 source:c:\users\isa silvana lado\desktop\funciones-master\funcionesgenericas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1507113744 source:c:\users\isa silvana lado\desktop\abbul -c-\funciones-master\funcionesgenericas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"otroFunciones.h"
+
+1507111367 c:\users\isa silvana lado\desktop\abbul -c-\funciones-master\funcionesgenericas\funciones.h
+
+1507111367 source:c:\users\isa silvana lado\desktop\abbul -c-\funciones-master\funcionesgenericas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1507115955 c:\users\isa silvana lado\desktop\abbul -c-\funciones-master\funcionesgenericas\otrofunciones.h
+
+1507114335 source:c:\users\isa silvana lado\desktop\abbul -c-\funciones-master\funcionesgenericas\otrofunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"otroFunciones.h"
+

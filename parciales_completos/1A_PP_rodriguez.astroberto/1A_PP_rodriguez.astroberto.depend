@@ -1,0 +1,52 @@
+# depslib dependency file v1.0
+1507129795 source:d:\1a_pp_rodriguez.astroberto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1507129956 source:d:\1a_pp_rodriguez.astroberto\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1507129758 d:\1a_pp_rodriguez.astroberto\funciones.h
+
+1507122072 d:\1a_pp_rodriguez.astroberto\otrofunciones.h
+
+1507122072 source:d:\1a_pp_rodriguez.astroberto\otrofunciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+	"otroFunciones.h"
+
+1507825867 source:c:\users\isa silvana lado\desktop\1a_pp_rodriguez.astroberto\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1507827017 c:\users\isa silvana lado\desktop\1a_pp_rodriguez.astroberto\funciones.h
+
+1507506485 source:c:\users\isa silvana lado\desktop\1a_pp_rodriguez.astroberto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508929613 source:c:\users\isa silvana lado\desktop\abbul -c-\1a_pp_rodriguez.astroberto\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1508729768 c:\users\isa silvana lado\desktop\abbul -c-\1a_pp_rodriguez.astroberto\funciones.h
+
+1508929528 source:c:\users\isa silvana lado\desktop\abbul -c-\1a_pp_rodriguez.astroberto\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+

@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1478957812 source:c:\users\profesor\desktop\funciones\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1478962061 source:c:\users\alumno\desktop\punteros a funciones como param\main.c
+	<stdio.h>
+	<stdlib.h>
+

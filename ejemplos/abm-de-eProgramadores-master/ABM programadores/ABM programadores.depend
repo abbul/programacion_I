@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1506525425 source:c:\users\alumno\desktop\abm programadores\main.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"programadores.h"
+
+1506519821 c:\users\alumno\desktop\abm programadores\programadores.h
+
+1506518599 source:c:\users\alumno\desktop\abm programadores\programadores.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<string.h>
+	"programadores.h"
+

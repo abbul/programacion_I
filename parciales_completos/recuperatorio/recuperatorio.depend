@@ -1,0 +1,47 @@
+# depslib dependency file v1.0
+1512682007 source:c:\users\emiliano\desktop\parcial\recuperatorio\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512682007 c:\users\emiliano\desktop\parcial\recuperatorio\arraylist.h
+
+1512685664 source:c:\users\emiliano\desktop\parcial\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1512685518 c:\users\emiliano\desktop\parcial\recuperatorio\funciones.h
+
+1512686214 source:c:\users\emiliano\desktop\parcial\recuperatorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1512686378 source:c:\users\isa silvana lado\desktop\abbul -c-\recuperatorio\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1512686378 c:\users\isa silvana lado\desktop\abbul -c-\recuperatorio\arraylist.h
+
+1512908801 source:c:\users\isa silvana lado\desktop\abbul -c-\recuperatorio\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+	"funciones.h"
+
+1512908392 c:\users\isa silvana lado\desktop\abbul -c-\recuperatorio\funciones.h
+
+1512913047 source:c:\users\isa silvana lado\desktop\abbul -c-\recuperatorio\main.c
+	<stdio.h>
+	<stdlib.h>
+	"ArrayList.h"
+	"funciones.h"
+

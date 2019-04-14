@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1507561715 source:c:\users\alumno\desktop\punteros que apuntan apuntando\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1507562707 source:c:\users\alumno\desktop\punteros que apuntan apuntando\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1507562388 c:\users\alumno\desktop\punteros que apuntan apuntando\funciones.h
+
