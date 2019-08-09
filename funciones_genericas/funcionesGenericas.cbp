@@ -31,18 +31,37 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="funciones.c">
+		<Unit filename="ArrayList.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="funciones.h" />
+		<Unit filename="ArrayList.h" />
+		<Unit filename="ClaseLeer.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="ClaseLeer.h" />
+		<Unit filename="claseArchivo.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="claseArchivo.h" />
+		<Unit filename="claseMostrar.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="claseMostrar.h" />
+		<Unit filename="claseNumero.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="claseNumero.h" />
+		<Unit filename="claseObjeto.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="claseObjeto.h" />
+		<Unit filename="clasePersona.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="clasePersona.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="otroFunciones" />
-		<Unit filename="otroFunciones.c">
-			<Option compilerVar="CC" />
-		</Unit>
-		<Unit filename="otroFunciones.h" />
 		<Extensions>
 			<code_completion />
 			<envvars />

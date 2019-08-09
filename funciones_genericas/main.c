@@ -1,73 +1,78 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
-#include "funciones.h"
-#include "otroFunciones.h"
-#define X 7
-#define C 7
+#include <conio.h>
+#include <ctype.h>
+#include <windows.h>
+#include "claseArchivo.h"
+#include "claseMostrar.h"
+#include "claseNumero.h"
+#include "claseObjeto.h"
+#include "clasePersona.h"
+#include "ArrayList.h"
+#include "ClaseLeer.h"
+#define CANTIDAD 10
+#define CONSTANTE 15
 
 int main()
 {
     int salir=1;
-    int auxPosicion;
+    char* bufferPuntero;
+    char buffer[100];
+    ArrayList* listaDepersonas = al_newArrayList();
+    ePersona* persona;
 
-    eDato clientes[X];
-    eOtro alquileres[C];
-
-    iniciaEstructura(clientes,X);
-    iniciaEstructuraOtro(alquileres,C);
-    cargaAutomatica(clientes,X);
-    cargaAutomaticaAlquileres(alquileres,C);
+    // CARGAMOS EL PUNTERO
+    bufferPuntero=&buffer;
 
     do
     {
         switch(menu())
-
         {
-        case 1:
-            auxPosicion= obtenerEspacioLibre(clientes,X);
-            cargarEstructura(clientes,auxPosicion);
+            case 1:
+                altaPersona(listaDepersonas);
+                getch();
+                break;
 
-            getch();
-            break;
+            case 2:
+                leerCadena("Ingrese DNI:",bufferPuntero,1,10);
+                bajaPersona(listaDepersonas,buffer);
+                getch();
+                break;
 
-        case 2:
-            printf("Ingrese ID a modificar:");
-            auxPosicion=buscarId(clientes,X);
-            modificarEstructura(clientes,auxPosicion);
-            getch();
-            break;
+            case 3:
+                printf("Opcion 3:");
+                getch();
+                break;
 
-        case 3:
-            bajaEstructura(clientes,X);
-            getch();
-            break;
+            case 4:
+                leerCadena("Ingrese DNI:",bufferPuntero,1,10);
+                persona= buscarPorDNI(listaDepersonas,buffer);
+                mostrarPersona(persona);
+                getch();
+                break;
 
-        case 4:
-            auxPosicion=obtenerEspacioLibreOtro(alquileres,C);
-            cargarAlquiler(alquileres,clientes,auxPosicion,X);
-            getch();
-            break;
+            case 5:
+                mostrarListaPersona(listaDepersonas);
+                getch();
+                break;
 
-        case 5:
-            // auxPosicion=buscarContrato(clientes,C);
-             bajaAlquiler(alquileres,C);
-            getch();
-            break;
-
-        case 6:
-            mostrarArrayEstrutura(clientes,X);
-            // muestraTodo(clientes,alquileres,X,C);
-             getch();
-            break;
-        case 7:
-           salir=0;
-            break;
-
+            case 6:
+                printf("Opcion 6:");
+                getch();
+                break;
+            case 9:
+                printf("Hasta Luego!!!");
+                getch();
+                salir=0;
+                break;
+            default:
+                printf("**** ERROR; Opcion Invalida ***");
+                getch();
+                break;
         }
 
-
-    }while(salir);
+    }while(salir != 0);
 
     return 0;
 }

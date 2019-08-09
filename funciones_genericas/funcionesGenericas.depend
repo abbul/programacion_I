@@ -51,3 +51,91 @@
 	"funciones.h"
 	"otroFunciones.h"
 
+1563118018 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\archivos.c
+
+1563118822 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\clasearchivo.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"claseArchivo.h"
+
+1563118237 c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\clasearchivo.h
+
+1563157050 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\clasemostrar.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"claseMostrar.h"
+
+1563121340 c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\clasemostrar.h
+
+1563121340 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\funciones.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"funciones.h"
+
+1563117826 c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\funciones.h
+
+1563157050 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"claseArchivo.h"
+	"claseMostrar.h"
+	"claseNumero.h"
+	"claseObjeto.h"
+	"clasePersona.h"
+	"ArrayList.h"
+	"ClaseLeer.h"
+
+1563133502 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\clasenumero.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"claseNumero.h"
+
+1563133242 c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\clasenumero.h
+
+1563131973 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\claseobjeto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"claseObjeto.h"
+
+1563131946 c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\claseobjeto.h
+
+1563157289 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\clasepersona.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<conio.h>
+	<ctype.h>
+	<windows.h>
+	"clasePersona.h"
+	"claseNumero.h"
+	"ArrayList.h"
+
+1563156730 c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\clasepersona.h
+	"ArrayList.h"
+
+1563135143 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\arraylist.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ArrayList.h"
+
+1563156482 c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\arraylist.h
+
+1563146454 c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\claseleer.h
+
+1563156839 source:c:\users\astrobertoabbulrodri\desktop\programacion_i\funciones_genericas\claseleer.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"ClaseLeer.h"
+	"claseNumero.h"
+
